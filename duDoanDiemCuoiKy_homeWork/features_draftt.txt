@@ -5,6 +5,7 @@ features:
 + max (pre_score) (theo pro_id, user_id)
 + 
 
+bẳng data sau khi xử lý:
 user_id | problem_id | số lần nộp | time | max(pre_score) |
 --------+------------+------------+------+----------------|
         |            |            |      |                |
