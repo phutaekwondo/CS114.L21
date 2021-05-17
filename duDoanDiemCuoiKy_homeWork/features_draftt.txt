@@ -1,0 +1,12 @@
+features:
+
++ số lần nộp bài để pass(theo problem_id, user_id )
++ time last submit - time first submit ( theo pro_id, user_id)
++ max (pre_score) (theo pro_id, user_id)
++ 
+
+user_id | problem_id | số lần nộp | time | max(pre_score) |
+--------+------------+------------+------+----------------|
+        |            |            |      |                |
+        |            |            |      |                |
+        |            |            |      |                |
